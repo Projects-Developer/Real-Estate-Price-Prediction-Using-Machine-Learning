@@ -1,4 +1,4 @@
-# Real-Estate-Price-Prediction-Using-Machine-Learning-
+# Real Estate Price Prediction Using Machine Learning
 Real estate price prediction With Code, documents and Video tutorial
 
 ![Real estate](https://github.com/user-attachments/assets/7257bc61-2f41-48a1-8daf-98d0ef15ad29)
